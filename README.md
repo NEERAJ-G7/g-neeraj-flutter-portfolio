@@ -8,3 +8,18 @@ This is the Flutter implementation of the portfolio shown in the reference scree
 3. My Projects Page
 
 
+## Run
+
+```bash
+flutter pub get
+flutter run
+```
+
+For Chrome:
+
+```bash
+flutter run -d chrome
+```
+
+Main source: `lib/main.dart`
+
